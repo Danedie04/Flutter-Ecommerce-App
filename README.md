@@ -78,13 +78,8 @@ Plugin Name        | Stars
 
 ## Created & Maintained By
 
-[Sonu Sharma](https://github.com/TheAlphamerc) ([Twitter](https://www.twitter.com/TheAlphamerc)) ([Youtube](https://www.youtube.com/user/sonusharma045sonu/)) ([Insta](https://www.instagram.com/_sonu_sharma__)) ([Dev.to](https://dev.to/thealphamerc))
-  ![Twitter Follow](https://img.shields.io/twitter/follow/thealphamerc?style=social) 
+[Dinesh Kumar](https://github.com/Danedie04) 
 
-
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> * [PayPal](https://www.paypal.me/TheAlphamerc/)
 
 > You can also nominate me for Github Star developer program
 > https://stars.github.com/nominate
